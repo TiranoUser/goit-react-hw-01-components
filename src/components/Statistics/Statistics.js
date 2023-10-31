@@ -6,7 +6,7 @@ import {
   StatLabel,
   StatPercentage,
 } from './Statistics.styled';
-import { bgColorGenerator } from '../Utils/BgColoкGenerator';
+import { bgColorGenerator } from '../../utils/bgColoкGenerator';
 
 export const Statistics = ({ title, stats }) => {
   return (
